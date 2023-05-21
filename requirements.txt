@@ -1,3 +1,7 @@
+# Text2Speech dependency
 pyttsx3
 gTTS
 playaudio
+
+
+# Video2Image
