@@ -1,5 +1,4 @@
-# Import the gTTS module for text  
-# to speech conversion  
+# Import the gTTS module for text to speech conversion  
 from gtts import gTTS  
 import os
 # This module is imported so that we can  
